@@ -3,6 +3,12 @@
 
 //define tu función aquí
 
+module.exports = {
+function octenerPI() 
+const PI =3.1416
+return PI;
+};
+
 
 // No modificar
 // Exporta la función para que pueda ser utilizada en otros archivos
