@@ -3,6 +3,9 @@
 
 //Escribe tu función aquí
 
+function sumar(5, 3)); // Imprime: 8 {
+    return 5 + 3;
+}
 
 // Exporta la función para que pueda ser utilizada en las pruebas
 module.exports = {
